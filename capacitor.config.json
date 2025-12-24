@@ -3,7 +3,7 @@
     "appName": "E视界",
     "webDir": "public",
     "server": {
-        "url": "https://maiyadi.myds.me:3001",
+        "url": "http://maiyadi.myds.me:3001",
         "cleartext": true
     },
     "plugins": {
@@ -15,3 +15,4 @@
     }
 
 }
+
